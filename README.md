@@ -14,7 +14,7 @@ Thank you for your interest in this project!
 
 ## Introduction
 
-This project aims to simplify and guide the learners towards the world of automation. All the scripts in this repository can be found under the ``scripts`` directory and have been contributed by our generous contributors. To add your contributions towards opensource community and grab the opportunity, Then lets start with this repository.
+This project aims to simplify and guide the learners towards the world of automation. All the scripts in this repository can be found under the ``scripts`` directory. To add your contributions to this project and grab the opportunity, Then lets start with this repository.
 This repository consist a list of awesome `Terminal-Based` script projects.
 If you are looking to make your contribution, follow the steps below.
 </br>
