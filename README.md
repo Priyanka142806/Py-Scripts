@@ -2,8 +2,8 @@
 
 # Py-SCRIPTS
 
-![Contributors](https://img.shields.io/github/contributors/yagyandatta/Terminal-Bot?color=darkgreen&style=plasitc)
-![Forks](https://img.shields.io/github/forks/yagyandatta/Terminal-Bot?color=blue&style=plasitc)
+![Contributors](https://img.shields.io/github/contributors/yagyandatta/Py-Scripts?color=darkgreen&style=plasitc)
+![Forks](https://img.shields.io/github/forks/yagyandatta/Py-Scripts?color=blue&style=plasitc)
 
 # Contribute to this documentation
 
@@ -22,7 +22,7 @@ If you don't have git on your machine, [install it](https://help.github.com/arti
 
 ## How to contribute
 
-This repository accepts all kinds of script contributions. Before making a contribution please make sure you have gone through our [contributing guidelines](https://github.com/yagyandatta/Terminal-Bot/blob/master/.github/CONTRIBUTING.md).
+This repository accepts all kinds of script contributions. Before making a contribution please make sure you have gone through our [contributing guidelines](https://github.com/yagyandatta/Py-Scripts/blob/master/.github/CONTRIBUTING.md).
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/64744084/95018364-e7d2df00-067c-11eb-9989-5ed586adb11b.jpg" alt="fork this repository" />
 
