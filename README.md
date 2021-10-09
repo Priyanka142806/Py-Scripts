@@ -14,7 +14,7 @@ Thank you for your interest in this project!
 
 ## Introduction
 
-This project aims to simplify and guide the learners towards the world of automation. This repository consist a list of awesome `Terminal-Based` script projects which  can be accesssed from  the ``scripts`` directory.
+This project aims to simplify and guide the learners towards the world of automation. This repository consist a list of awesome `Terminal-Based` script projects which  can be accesssed from  the ``scripts`` directory. The detailed description  about each of the scripts can be found in their respective readme files.
 So if you are looking to make some exciting open source contribution using python , you are at the right place.
 </br>
 If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/)
@@ -117,7 +117,9 @@ Congrats! You just completed the standard <b> fork -> clone -> edit -> pull requ
 
 ## Contribute on
 You can start contributing to this project  either by 
+
 a)adding your own python automation scripts 
+
 b)or adding some more features to the already existing scripts(FILE_Organiser.py,PDF_Merger,URL_Short)
 
 <div>
