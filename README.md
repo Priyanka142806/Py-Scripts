@@ -14,9 +14,8 @@ Thank you for your interest in this project!
 
 ## Introduction
 
-This project aims to simplify and guide the learners towards the world of automation. All the scripts in this repository can be found under the ``scripts`` directory. To add your contributions to this project and grab the opportunity, Then lets start with this repository.
-This repository consist a list of awesome `Terminal-Based` script projects.
-If you are looking to make your contribution, follow the steps below.
+This project aims to simplify and guide the learners towards the world of automation. This repository consist a list of awesome `Terminal-Based` script projects which  can be accesssed from  the ``scripts`` directory.
+So if you are looking to make some exciting open source contribution using python , you are at the right place.
 </br>
 If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/)
 
@@ -114,6 +113,12 @@ Type a proper description and give the PR an appropriate title. Finally, Open a 
 Soon I'll be merging all your changes into the master branch of this project. You will get a `notification email` once the changes have been merged.
 
 Congrats! You just completed the standard <b> fork -> clone -> edit -> pull request </b> workflow that you'll encounter often as a contributor!
+
+
+## Contribute on
+You can start contributing to this project  either by 
+a)adding your own python automation scripts 
+b)or adding some more features to the already existing scripts(FILE_Organiser.py,PDF_Merger,URL_Short)
 
 <div>
 <h1 align="center"> Thanks for your Contribution!! </h1>
